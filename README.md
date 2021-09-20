@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 
-<h1  align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek Singh</h1>
+<h1  align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm vamsi gudivada</h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer from India.</h3>
 
 
@@ -13,9 +13,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://abhisingh.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://vamsi-g.herokuapp.com//)**
 
-- 📫 How to reach me **9528442373.as@gmail.com**
+- 📫 How to reach me **vamsinagendra2@gmail.com**
 
 - ⚡ Fun fact **I love to play video games and also a fitness enthusiast.**
 
