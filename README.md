@@ -2,18 +2,18 @@
 
 
 <h1  align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm vamsi gudivada</h1>
-<h3 align="center">I'm a Full Stack Web Developer with inbuilt curiousity and creativity 😉</h3>
+<h3 align="center">I'm a Full Stack Web Developer with inbuilt curiosity and creativity 😉</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- Currently Learning **Full stack web development with MERN stack**
+- Currently Learning **Full-stack web development with MERN stack**
 
 - Love to be creative in those things i do.
 
 - 💻 Technically here you can find who i am **[My Portfolio](https://vamsi-g.herokuapp.com/)** and you can reach me, **vamsinagendra2@gmail.com**
 
-- ⚡ Fun fact **if anything that makes me intresting ,i'll try that, so i do a lot, like i write qoutes and short stories,click photos of nature, learning flute, fan of video games,sketching doodle art ,novel reading and more **
+- ⚡ Fun fact **if anything that makes me interesting ,i'll try that, so i do a lot like i write quotes and short stories, click photos of nature, learning to play flute, a fan of video games, sketching doodle art, novel reading and more**
 
 
 ## Tools and Tech-stack:
