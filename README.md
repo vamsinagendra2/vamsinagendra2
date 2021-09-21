@@ -11,7 +11,7 @@
 
 - Love to be creative in those things i do.
 
-- 💻 Technically here you can find who i am **[My Portfolio](https://vamsi-g.herokuapp.com//)** and you can reach me, **vamsinagendra2@gmail.com**
+- 💻 Technically here you can find who i am **[My Portfolio](https://vamsi-g.herokuapp.com/)** and you can reach me, **vamsinagendra2@gmail.com**
 
 - ⚡ Fun fact **if anything that makes me intresting ,i'll try that, so i do a lot, like i write qoutes and short stories,click photos of nature, learning flute, fan of video games,sketching doodle art ,novel reading and more **
 
