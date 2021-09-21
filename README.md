@@ -7,17 +7,16 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 current status:Learning **Full stack web development with MERN stack**
+- Currently Learning **Full stack web development with MERN stack**
 
-- 👯 Love to be creative in those things i do.
+- Love to be creative in those things i do.
 
-- 👨‍💻 Technically here you can find who i am **[My Portfolio](https://vamsi-g.herokuapp.com//)** and you can reach me, **vamsinagendra2@gmail.com**
+- 💻 Technically here you can find who i am **[My Portfolio](https://vamsi-g.herokuapp.com//)** and you can reach me, **vamsinagendra2@gmail.com**
 
 - ⚡ Fun fact **if anything that makes me intresting ,i'll try that, so i do a lot, like i write qoutes and short stories,click photos of nature, learning flute, fan of video games,sketching doodle art ,novel reading and more **
 
 
-
-## Languages and Tools(Tech-stack):
+## Tools and Tech-stack:
 
 <p align="center"> 
     <a href="#" target="_blank">  </a>
@@ -39,17 +38,13 @@
 
 ## my work in Git
 
-<p align="right">
+<p align="center">
     <a href="#">
-        <img alt="vamsi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vamsinagendra2&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
+        <img alt="vamsi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vamsinagendra2&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
     </a>
-</p>
-
-  <br/>
     <a href="#"><img alt="Vamsi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vamsinagendra2&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="#"><img alt="vamsi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsinagendra2&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-
+</p>
 <br/>
 <br/>
 
@@ -58,8 +53,8 @@
 <br/>
 <br/>
 
-## Connect with me:
-<p align="left">
+## Connect me:
+<p align="center">
 
 <a href = "https://www.linkedin.com/in/vamsigudivada/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
