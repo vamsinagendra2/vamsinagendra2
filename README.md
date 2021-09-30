@@ -1,7 +1,8 @@
-<a href="#"><img width="100%" height="auto" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="175px"/></a>
-
 
 <h1  align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm vamsi gudivada</h1>
+
+<a href="#"><img width="100%" height="auto" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="175px"/></a>
+
 <h3 align="center">I'm a Full Stack Web Developer with inbuilt curiosity and creativity 😉</h3>
 
 
