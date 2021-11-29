@@ -3,16 +3,16 @@
 
 <a href="#"><img width="100%" height="auto" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="175px"/></a>
 
-<h3 align="center">I'm a Full Stack Web Developer with inbuilt curiosity and creativity 😉</h3>
+<h3 align="center">I'm a Full Stack Web Developer with built in curiosity and creativity 😉</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- Currently Learning **Full-stack web development with MERN stack**
+- Completed learning **Full-stack web development with MERN stack** at Masai school.
 
 - Love to be creative in those things i do.
 
-- 💻 Technically here you can find who i am **[My Portfolio](https://vamsi-g.herokuapp.com/)** and you can reach me, **vamsinagendra2@gmail.com**
+- 💻 Technically, here you can find who i am **[My Portfolio](https://vamsi-g.herokuapp.com/)** and you can reach me, **vamsinagendra2@gmail.com**
 
 - ⚡ Fun fact **if anything that makes me interesting ,i'll try that, so i do a lot like i write quotes and short stories, click photos of nature, learning to play flute, a fan of video games, sketching doodle art, novel reading and more**
 
